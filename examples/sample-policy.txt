@@ -1,0 +1,5 @@
+Example only: this is a made-up policy for planning Scrutiny's first checks.
+
+Our security policy is reviewed annually (NIST CSF 2.0: GV.PO-02).
+Changes to the policy are approved by the security manager (NIST CSF 2.0: GV.PO-99).
+The updated policy is shared with all staff (NIST CSF 2.0: GV.PO02).
